@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscarj-8" alt="oscarj-8" /></a> </p>
 
-- 🔭 I’m currently working on **personal portfolio**
+- 🔭 I’m currently working on **MERN Projects**
 
 - 🌱 I’m currently learning **Angular, TypeScript and WordPress**
 
