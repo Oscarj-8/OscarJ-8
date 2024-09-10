@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **MERN Projects**
 
-- 🌱 I’m currently learning **Angular, TypeScript and WordPress**
+- 🌱 I’m currently learning **TypeScript and DSA**
 
-- 💬 Ask me about **react, css, javascript, UI/UX**
+- 💬 Ask me about **react, css, javascript, typescript and UI/UX**
 
 - 📫 How to reach me **mabdulahi954@gmail.com**
 
